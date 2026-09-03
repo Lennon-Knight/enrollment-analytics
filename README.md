@@ -21,5 +21,3 @@ the analytical queries.
 ## Status
 In progress — schema and generation complete, queries underway.
 =======
-# enrollment-analytics
->>>>>>> 5a912d5165e0892bb137adc40465145f9625a3c1

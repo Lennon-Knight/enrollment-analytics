@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Higher-Ed Enrollment Analytics
 
 A PostgreSQL database modeling eight cohorts of student enrollment,
